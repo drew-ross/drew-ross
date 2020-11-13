@@ -8,4 +8,5 @@ Through software engineering, I'm helping others succeed by building tools that 
 
 My skills include: HTML, CSS, JavaScript, React, Redux, Node/Express APIs
 
+---
 LinkedIn: https://www.linkedin.com/in/drros/
