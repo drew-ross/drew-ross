@@ -1,5 +1,4 @@
-# Hello,
-## My name is Drew, and I'm a Full Stack Software Engineer...
+## Hello, my name is Drew, and I'm a Full Stack Software Engineer...
 
 who is passionate about education and health. Through software engineering, I'm helping others succeed by building tools that facilitate personal growth.
 + I'm working on an app to help children improve reading, writing, and drawing skills
