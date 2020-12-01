@@ -3,7 +3,7 @@
 Through software engineering, I'm helping others succeed by building tools that facilitate personal growth. I'm passionate about education and health. 
 
 + I'm working on an app to help children improve reading, writing, and drawing skills
-+ I'm learning design and React accessibility
++ I'm currently learning TypeScript and GraphQL
 + I love bouldering and coffee
 
 My skills include: HTML, CSS, JavaScript, React, Redux, Node/Express APIs
