@@ -6,7 +6,7 @@ Through software engineering, I'm helping others succeed by building tools that 
 + I'm currently learning TypeScript and GraphQL
 + I love bouldering and coffee
 
-My skills include: HTML, CSS, JavaScript, React, Redux, Node/Express APIs
+My skills include: HTML, CSS, JavaScript, React, Redux, Node.js/Express REST APIs
 
 ---
 LinkedIn: https://www.linkedin.com/in/drros/
