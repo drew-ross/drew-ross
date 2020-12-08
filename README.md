@@ -2,7 +2,7 @@
 
 Through software engineering, I'm helping others succeed by building tools that facilitate personal growth. 
 
-+ I'm working on an app to help children improve reading, writing, and drawing skills
++ I'm working on an app to help children improve reading and writing skills
 + I'm currently learning TypeScript and GraphQL
 + I love bouldering and coffee
 
