@@ -1,11 +1,10 @@
-## Hello, my name is Drew, and I'm a Full Stack Software Engineer
+## Hello, my name is Drew, and I'm a Full Stack Web Developer
 
-Through software engineering, I'm helping others succeed by building tools that facilitate personal growth and connection.
+I love bouldering 🧗‍♂️ and coffee
 
-+ I'm working on an app for leaders to promote team-building through creative social engagement
-+ I love bouldering 🧗‍♂️ and coffee ☕
-
-My skills include: HTML, CSS/SCSS, JavaScript, TypeScript, React, Redux, Recoil.js, Node.js, Express, REST APIs, Apollo GraphQL, WebSocket
+My skills include: HTML, CSS/SCSS, JavaScript, TypeScript, React, Redux, Recoil.js, Node.js, Express, REST APIs, Apollo GraphQL
 
 ---
+Website: https://drewross.me
+
 LinkedIn: https://www.linkedin.com/in/drros/
